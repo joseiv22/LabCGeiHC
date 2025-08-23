@@ -2,6 +2,9 @@
 #include <string.h>
 #include <glew.h>
 #include <glfw3.h>
+
+#include <stdlib.h>
+#include <time.h>
 //Dimensiones de la ventana
 const int WIDTH = 800, HEIGHT = 800;
 GLuint VAO, VBO, shader;
@@ -35,22 +38,129 @@ void CrearTriangulo()
 {
 	GLfloat vertices[] = {
 		//Estos son puntos x,y,z
-		-0.75f,0.50f,0.0f,
-		-0.75f,0.25f, 0.0f,
-		-0.50f,0.25f,0.0f,
+		//verdes
+		//LETRA J
+		-0.65f,0.5f,0.0f,
+		-0.75f,0.5f, 0.0f,
+		-0.65f,0.4f,0.0f,
 
-		-0.50f,0.25f,0.0f,
-		-0.50f,0.50f,0.0f,
-		-0.75f,0.50f, 0.0f,
+		-0.75f,0.5f, 0.0f,
+		-0.75f,0.4f,0.0f,
+		-0.65f,0.4f,0.0f,
+		//200 hacia abajo negro
 
-		 0.625f,0.5f,0.0f,
-		 0.5f,0.375f,0.0f,
-		 0.75f,0.375f, 0.0f,
+		-0.65f,0.5f,0.0f,
+		-0.65f,0.3f, 0.0f,
+		-0.55f,0.5f, 0.0f,
+		//rojo
+
+		-0.55f,0.5f, 0.0f,
+		-0.65f,0.3f, 0.0f,
+		-0.55f,0.1f, 0.0f,
+		//azul
+		-0.65f,0.3f, 0.0f,
+		-0.65f,0.1f, 0.0f,
+		-0.55f,0.1f, 0.0f,
+
+		//verde
+		-0.65f,0.1f, 0.0f,
+		-0.8f,0.1f, 0.0f,
+		-0.65f,0.175f, 0.0f,
+		//verde
+		-0.8f,0.1f, 0.0f,
+		-0.8f,0.175f, 0.0f,
+		-0.65f,0.175f, 0.0f,
+
+		//verde cabeza derecha
+		-0.45f,0.5f,0.0f,
+		-0.55f,0.5f, 0.0f,
+		-0.55f,0.4f,0.0f,
+
+		-0.45f,0.5f, 0.0f,
+		-0.55f,0.4f,0.0f,
+		-0.45f,0.4f,0.0f,
+		// LETRA C
+
+		//DORADO
+		-0.20f,0.5f,0.0f,
+		-0.25f,0.5f, 0.0f,
+		-0.20f,0.2f,0.0f,
+
+		-0.25f,0.5f, 0.0f,
+		-0.25f,0.2f,0.0f,
+		-0.20f,0.2f,0.0f,
+
+		//azul
+		-0.05f,0.2f, 0.0f,
+		-0.25f,0.2f,0.0f,
+		-0.05f,0.1f,0.0f,
+
+		-0.25f,0.2f, 0.0f,
+		-0.25f,0.1f,0.0f,
+		-0.05f,0.1f,0.0f,
+
+		//ROSA
+		-0.2f,0.5f,0.0f,
+		-0.2f,0.4f, 0.0f,
+		-0.05f,0.4f,0.0f,
+
+		-0.2f,0.5f, 0.0f,
+		-0.05f,0.4f,0.0f,
+		-0.05f,0.5f,0.0f,
+
+		//--- LETRA P
+		
+		//ROJO
+		0.20f,0.5f,0.0f,
+		0.15f,0.5f,0.0f,
+		0.20f,0.1f,0.0f,
+
+		0.15f,0.5f,0.0f,
+		0.15f,0.1f,0.0f,
+		0.20f,0.1f,0.0f,
+
+		//MORADO
+		0.20f,0.5f,0.0f,
+		0.20f,0.45f,0.0f,
+		0.275f,0.45f,0.0f,
+
+		0.20f,0.5f,0.0f,
+		0.275f,0.45f,0.0f,
+		0.35f,0.5f,0.0f,
+
+		0.35f,0.5f,0.0f,
+		0.275f,0.45f,0.0f,
+		0.35f,0.45f,0.0f,
+
+		//AZUL
+		
+		
+		0.35f,0.45f,0.0f,
+		0.30f,0.45f,0.0f,
+		0.35f,0.3f,0.0f,
+		
+		0.35f, 0.3f, 0.0f,
+		0.30f, 0.3f, 0.0f,
+		0.32f, 0.395f, 0.0f,
+
+		0.32f,0.395f, 0.0f,
+		0.20f, 0.3f, 0.0f,
+		0.30f, 0.3f, 0.0f,
+
+		//NARANJA
+		0.32f, 0.395f, 0.0f,
+		0.20f, 0.345f, 0.0f,
+		0.20f, 0.3f, 0.0f,
+
+		//CODIGO DE FIGURA
+		//0.625f,0.5f,0.0f,
+		 //0.5f,0.375f,0.0f,
+		 //0.75f,0.375f, 0.0f,
 
 
-		 0.5f,0.375f,0.0f,
-		 0.625f,0.25f,0.0f,
-		 0.75f,0.375f, 0.0f,
+		 //0.5f,0.375f,0.0f,
+		 //0.625f,0.25f,0.0f,
+		 //0.75f,0.375f, 0.0f,
 	};
 	glGenVertexArrays(1, &VAO); //generar 1 VAO
 	glBindVertexArray(VAO);//asignar VAO
@@ -178,34 +288,49 @@ int main()
 	CrearTriangulo();
 	CompileShaders();
 
-	int contador = 0;
+	/*int contador = 0;*/
+	double ultimoconteo = glfwGetTime();
 	int cambio = 0;  // 0=rojo,1=verde,2=azul
-	float r = 0, g = 0, b = 0;
+	srand(time(NULL));
+	float r = (float)(rand() % 256) / 255.0f;
+	float g = (float)(rand() % 256) / 255.0f;
+	float b = (float)(rand() % 256) / 255.0f;
+
 	//Loop mientras no se cierra la ventana
 	while (!glfwWindowShouldClose(mainWindow))
 	{
+		
 		//Recibir eventos del usuario
 		glfwPollEvents();
+		double tiempoactual = glfwGetTime();
+		if (tiempoactual - ultimoconteo >= 2.0) { // cada 2 segundos
+			ultimoconteo = tiempoactual;
+			//cambio = (cambio + 1) % 3; // cicla entre 0,1,2
+			
+			r = (float)(rand() % 256) / 255.0f;
+			g = (float)(rand() % 256) / 255.0f;
+			b = (float)(rand() % 256) / 255.0f;
+		}
 
 		//Limpiar la ventana
 
-		contador++;
+		///*contador++;*/
 
-		if (contador >= 500) {      // cada 4 frames
-			contador = 0;
-			if (cambio < 2) { cambio++; }
-			else
-			{
-				cambio = 0;
-			}
+		//if (contador >= 500) {      // cada 4 frames
+		//	contador = 0;
+		//	if (cambio < 2) { cambio++; }
+		//	else
+		//	{
+		//		cambio = 0;
+		//	}
 
 
-		}
+		//}
 		//glClearColor(0.0f,0.0f,0.0f,1.0f);
 
-		if (cambio == 0) { r = 1; g = 0; b = 0; }  // rojo
-		else if (cambio == 1) { r = 0; g = 1; b = 0; }  // verde
-		else if (cambio == 2) { r = 0; g = 0; b = 1; }  // azul
+		//if (cambio == 0) { r = 1; g = 0; b = 0; }  // rojo
+		//else if (cambio == 1) { r = 0; g = 1; b = 0; }  // verde
+		//else if (cambio == 2) { r = 0; g = 0; b = 1; }  // azul
 
 
 		glClearColor(r, g, b, 1.0f);
@@ -215,7 +340,7 @@ int main()
 
 		glBindVertexArray(VAO);
 
-		glDrawArrays(GL_TRIANGLES, 0, 12);
+		glDrawArrays(GL_TRIANGLES, 0, 72);
 
 		glBindVertexArray(0);
 

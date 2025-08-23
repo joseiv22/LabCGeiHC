@@ -1,0 +1,16 @@
+﻿  E01-421073850.cpp
+C:\Laboratorio grafica\LabCGeiHC\LabCGeiHC\E01-421073850.cpp(294,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Mesh.cpp
+  Shader.cpp
+  Window.cpp
+C:\Laboratorio grafica\LabCGeiHC\LabCGeiHC\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Laboratorio grafica\LabCGeiHC\LabCGeiHC\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 138 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  LabCGeiHC.vcxproj -> C:\Laboratorio grafica\LabCGeiHC\Release\LabCGeiHC.exe
