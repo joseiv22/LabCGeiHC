@@ -1,0 +1,267 @@
+# Blender 3.6.23 MTL File: 'sin_nombre.blend'
+# www.blender.org
+
+newmtl Ferrari_PurosangueRewardRecycled_2023BadgeA_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_BadgeA_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_BadgeA_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_BadgeA_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Base_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Carbon2_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/common_carbon05_black_diff.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/common_carbon05_norm.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Coloured_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.055944 0.055944 0.055944
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Ferrari_PurosangueRewardRecycled_2023EngineA_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_EngineA_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_EngineA_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_EngineA_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Grille1A_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille1A_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille1A_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille1A_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Grille2A_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille2A_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille2A_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille1A_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Grille3A_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille3A_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille3A_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille3A_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Grille4A_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille4A_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille4A_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille4A_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Grille5A_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille5A_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille5A_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille5A_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Grille6A_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille6A_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille6A_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille6A_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Grille7A_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille7A_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille7A_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille9A_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Grille8A_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille8A_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille8A_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille8A_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Grille9A_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille9A_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille9A_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Grille9A_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023InteriorA_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_InteriorA_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_InteriorA_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_InteriorA_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023InteriorTillingA_Mater.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_InteriorTillingA_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_InteriorTillingA_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_InteriorTillingA_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023InteriorTillingCol_0fe.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_InteriorTillingA_Normal.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023LightA_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_LightA_Diffuse.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_LightA_Diffuse.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023ManufacturerPlateA_d84.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_ManufacturerPlateA_Diffuse.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_ManufacturerPlateA_Diffuse.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Paint_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.362000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Ferrari_PurosangueRewardRecycled_2023SeatBelt_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.083916 0.083916 0.083916
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Textured2A_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Textured2A_Diffuse.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Textured2A_Diffuse.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023TexturedA_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_TexturedA_Diffuse.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_TexturedA_Diffuse.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023WindowInside_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.230769 0.230769 0.230769
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.349650
+illum 6
+
+newmtl Ferrari_PurosangueRewardRecycled_2023Window_Material.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.342657 0.342657 0.342657
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.321678
+illum 6

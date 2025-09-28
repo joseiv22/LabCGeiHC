@@ -1,0 +1,23 @@
+# Blender 3.6.23 MTL File: 'sin_nombre.blend'
+# www.blender.org
+
+newmtl Ferrari_PurosangueRewardRecycled_2023_CallipersCalliper_c10.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_CalliperA_Zone_Diffuse.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_CalliperA_Zone_Diffuse.png
+
+newmtl Ferrari_PurosangueRewardRecycled_2023_Wheel1A_3D_3DWhee_271.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Wheel1A_DiffuseAOSO.png
+map_d C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Wheel1A_DiffuseAOSO.png
+map_Bump -bm 1.000000 C:/Users/jcapi/Downloads/modelo-421073850/source/Final_Model/Ferrari_Purosangue_2023_Wheel1A_Normal.png
